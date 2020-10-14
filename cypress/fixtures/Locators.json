@@ -1,0 +1,25 @@
+{
+    "Headers": {
+        "Login": ".nav-link",
+        "Register": ".nav-link",
+        "Logout": ".nav-link"
+    },
+    "Login": {
+        "Email": "#email",
+        "Password": "#password",
+        "Submit": ".btn",
+        "Poruka": ".alert"
+    },
+    "Register": {
+        "Title": ".title-style",
+        "firstName": "#first-name",
+        "lastName": "#last-name",
+        "Email": "#email",
+        "Password": "#password",
+        "PasswordConf": "#password-confirmation",
+        "formCheck": ".form-check-input",
+        "Submit": ".btn",
+        "Poruka": ".alert"
+    }
+    
+}

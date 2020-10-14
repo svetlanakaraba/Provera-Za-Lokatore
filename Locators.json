@@ -1,0 +1,37 @@
+{
+    "Headers": {
+        "Login": ".nav-link",
+        "Register": ".nav-link",
+        "Logout": ".nav-link",
+        "CreateGallery": ".nav-link",
+        "MyGalleries": ".nav-link"
+    },
+    "Login": {
+        "Email": "#email",
+        "Password": "#password",
+        "Submit": ".btn",
+        "Poruka": ".alert"
+    },
+    "Register": {
+        "Title": ".title-style",
+        "firstName": "#first-name",
+        "lastName": "#last-name",
+        "Email": "#email",
+        "Password": "#password",
+        "PasswordConf": "#password-confirmation",
+        "formCheck": ".form-check-input",
+        "Submit": ".btn",
+        "Poruka": ".alert"
+    },
+    "CreateGall": {
+        "Title": ".title-style",
+        "PicTitle": "#title",
+        "PicDescription": "#description",
+        "Picture": ".form-control",
+        "Submit": ".btn",
+        "Poruka": ".alert",
+        "DugmeTrash": ".input-buttons",
+        "DugmeUp": ".input-buttons"
+    }
+    
+}
